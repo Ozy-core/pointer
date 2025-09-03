@@ -52,7 +52,7 @@ int main()
 
     
     // mindpoint vector
-    vector<int> vec={1,2,3};
+    vector<int> vec={1,2,3,4};
     int* begin_ptr= &vec[0];
     int* end_ptr= &vec.back();
     
